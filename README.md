@@ -33,7 +33,7 @@ tasks (e.g., YOLO) and are split into train/validation/test subsets.
 - **Task:** Floating / marine debris detection in waterways  
 - **Format:** Object detection (YOLO-style images + label files)  
 - **Splits:** `train`, `valid`, `test` directories  
-- **Images:** `N_train`: 69, `N_valid`: 112, `N_test`: 3600 
+- **Images:** `N_train`: 3600, `N_valid`: 112, `N_test`: 69 
 - **Resolution:** 640×640
 - **Classes:** defined in data.yaml `can`, `foam`, `plastic bottle`, `plastic`, `unknow`
 
