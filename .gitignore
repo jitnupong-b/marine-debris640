@@ -1,0 +1,38 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Python cache / virtual env
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.dist/
+build/
+dist/
+
+# Jupyter notebooks cache
+.ipynb_checkpoints/
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+
+# Experiments / outputs
+runs/
+outputs/
+checkpoints/
+weights/
+models/
