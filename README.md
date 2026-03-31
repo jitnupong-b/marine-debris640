@@ -40,9 +40,9 @@ tasks (e.g., YOLO) and are split into train/validation/test subsets.
 ## Data Collection
 
 - Types of locations: urban canals, large rivers in Chonburi, Thailand 
-- Time period of data collection: in the daytime (09.00 - 18.00)
-- Capture devices (action cameras, mobile phones)  
-- Any preprocessing steps (resizing to 640×640, cropping, color correction, filtering)
+- Time period of data collection: during daytime (09.00 - 18.00)
+- Capture devices: action cameras and mobile phones  
+- Any preprocessing steps: resizing to 640×640, cropping, color correction, filtering
 
 
 ## Annotation
